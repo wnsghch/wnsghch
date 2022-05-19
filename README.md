@@ -6,14 +6,17 @@
   
   <p>
     <div align="center">
-    <h1>환영합니다. 👋 </h1>
+      <h1> 👋 환영합니다. 👋 </h1>
       <h2> 세명대 정보통신학부 최준호입니다. </h2>
-      
+      </div>
+	    <p>
       <br />
-      <h2> Learing Program</h2>
+      <h3> Learing Program </h3>
       
-      ![ubuntu] (https://img.shields.io/badge/---ubuntu-green)
-      ![c++] (https://img.shields.io/badge/---c%2B%2B-yellowgreen)
+      
+      ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+      ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
       
 <!--
 **wnsghch/wnsghch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
